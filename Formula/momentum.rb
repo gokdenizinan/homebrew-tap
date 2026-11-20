@@ -4,8 +4,8 @@
 class Momentum < Formula
   desc "Focus timers and today's habits for Momentum Grids, in your terminal"
   homepage "https://github.com/gokdenizinan/momentum-cli"
-  url "https://github.com/gokdenizinan/momentum-cli/archive/refs/tags/v1.1.1.tar.gz"
-  sha256 "b956fa3aaf8ec9f073e4353712111b242aeb49825b81a44d7da0e1c9e98e2f83"
+  url "https://github.com/gokdenizinan/momentum-cli/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "61249e5802b7d0fefa45a378afb3ea2300fb91afec29ef3a0996632bac367ed9"
   license "MIT"
 
   # Standard library only; macOS's built-in Python 3.9+ is enough.
